@@ -1,0 +1,12 @@
+{
+  "nome": "Isabelli Santos",
+  "idade": 16,
+  "notas": "sempre acima da média",
+  "aprovado": true,
+  "dono": {
+    "nome": "João",
+    "telefone": "11999999967"
+  },
+  "brinquedos": ["bola", "osso"],
+  "dataFalecimento": null
+}

@@ -1,0 +1,11 @@
+{
+  "titulo": "A Noiva-Cadáver",
+  "ano": 2005,
+  "diretores": ["Tim Burton", "Mike Johnson"],
+  "generos": ["Infantil", "Fantasia"],
+  "estudio": {
+    "nome": "Warner Bros.",
+    "pais": "EUA"
+  },
+  "sequencia": null
+}

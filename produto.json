@@ -1,0 +1,12 @@
+{
+  "nome": "30cm Snoopy Que Respira Boneca De Pelúcia Mole Com Sensor",
+  "preco": 80.74,
+  "quantidade": 100,
+  "disponivel": true,
+  "vendedor": {
+    "nome": "Loja Oficial",
+    "contato": "11999999999"
+  },
+  "tags": ["brinquedos", "pelucia"],
+  "desconto": null
+}
